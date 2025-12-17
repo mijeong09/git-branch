@@ -20,6 +20,8 @@
   - `--oneline` : 간소화해서 출력
   - `--graph` : 그래프 형태로 출력
 
+- 브랜치 병함
+  - git merge {target_branch}
+    - 현재 내가 있는 브랜치에 타겟 브랜치를 가져와서 병합
 
-
-  
+- test
